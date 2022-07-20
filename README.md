@@ -1,6 +1,9 @@
 # nbdev_colab
 
-Use this template to more easily create your nbdev project. This walks through creating and working out of Google Colab.
+### Why
+- to create your python package, its documentation website from 1 source of truth: your colab notebook
+
+### How
 
 Step0: clone this template to your github account.
 
