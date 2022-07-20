@@ -1,7 +1,8 @@
 # nbdev_colab
 
 ### Why
-- to create your python package, its documentation website from 1 source of truth: your colab notebook
+- to develop your python package, the test of code block, the package documentation from 1 source of truth: your colab notebooks
+- no beefy local computer needed, everything is computed and stored on your Google drive and Colab (with options of GPU|TPU and high RAM)
 
 ### How
 
